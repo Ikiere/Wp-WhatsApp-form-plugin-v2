@@ -1,0 +1,4 @@
+#wpwqf-form { max-width:500px; margin:auto; }
+.wpwqf-field { margin-bottom:15px; }
+.wpwqf-field label { display:block; margin-bottom:5px; font-weight:bold; }
+#wpwqf-form button { padding:10px 15px; background:#25D366; color:#fff; border:none; cursor:pointer; }

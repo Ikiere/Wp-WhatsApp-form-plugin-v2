@@ -1,0 +1,4 @@
+#wpwqf-builder { list-style:none; margin:0; padding:0; }
+.wpwqf-item { padding:10px; background:#fff; border:1px solid #ddd; margin-bottom:5px; cursor:move; }
+.wpwqf-item input, .wpwqf-item select { margin:2px; }
+.wpwqf-item button.remove { background:red; color:#fff; border:none; padding:2px 5px; cursor:pointer; }
